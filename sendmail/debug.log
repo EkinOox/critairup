@@ -1,0 +1,688 @@
+22/10/31 15:17:01 ** --- MESSAGE BEGIN ---
+22/10/31 15:17:01 ** To: fred@gmail.com
+22/10/31 15:17:01 ** Subject: Email from Contact form
+22/10/31 15:17:01 ** 
+22/10/31 15:17:01 ** Diochon kyllian.diochon.kd@gmail.com wrote the following:
+22/10/31 15:17:01 ** 
+22/10/31 15:17:01 ** g,hg,y
+22/10/31 15:17:01 ** --- MESSAGE END ---
+22/10/31 15:17:02 ** Connecting to smtp.gmail.com:465
+22/10/31 15:17:03 ** Connected.
+22/10/31 15:17:03 << 220 smtp.gmail.com ESMTP y15-20020adfdf0f000000b00236860e7e9esm7251164wrl.98 - gsmtp<EOL>
+22/10/31 15:17:03 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:17:03 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:17:03 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:17:03 >> AUTH LOGIN<EOL>
+22/10/31 15:17:03 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:17:03 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:17:03 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:17:03 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:17:03 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:17:03 >> MAIL FROM: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:17:03 << 250 2.1.0 OK y15-20020adfdf0f000000b00236860e7e9esm7251164wrl.98 - gsmtp<EOL>
+22/10/31 15:17:03 >> RCPT TO: <fred@gmail.com><EOL>
+22/10/31 15:17:03 << 250 2.1.5 OK y15-20020adfdf0f000000b00236860e7e9esm7251164wrl.98 - gsmtp<EOL>
+22/10/31 15:17:03 >> DATA<EOL>
+22/10/31 15:17:04 << 354  Go ahead y15-20020adfdf0f000000b00236860e7e9esm7251164wrl.98 - gsmtp<EOL>
+22/10/31 15:17:04 >> Date: Mon, 31 Oct 2022 15:17:04 +0100<EOL>
+22/10/31 15:17:04 >> To: fred@gmail.com<EOL>
+22/10/31 15:17:04 >> Subject: Email from Contact form<EOL>
+22/10/31 15:17:04 >> <EOL>
+22/10/31 15:17:04 >> Diochon kyllian.diochon.kd@gmail.com wrote the following:<EOL>
+22/10/31 15:17:04 >> <EOL>
+22/10/31 15:17:04 >> g,hg,y<EOL>
+22/10/31 15:17:04 >> .<EOL>
+22/10/31 15:17:04 << 250 2.0.0 OK  1667225824 y15-20020adfdf0f000000b00236860e7e9esm7251164wrl.98 - gsmtp<EOL>
+22/10/31 15:17:04 >> QUIT<EOL>
+22/10/31 15:17:04 << 221 2.0.0 closing connection y15-20020adfdf0f000000b00236860e7e9esm7251164wrl.98 - gsmtp<EOL>
+22/10/31 15:17:04 ** Disconnected.
+22/10/31 15:17:04 ** Disconnected.
+22/10/31 15:17:04 ** Disconnected.
+22/10/31 15:30:43 ** --- MESSAGE BEGIN ---
+22/10/31 15:30:43 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:30:43 ** Subject: test
+22/10/31 15:30:43 ** 
+22/10/31 15:30:43 ** test kyllian.diochon@gmail.com
+22/10/31 15:30:43 ** 
+22/10/31 15:30:43 ** TESTETSTETSTESTS
+22/10/31 15:30:43 ** --- MESSAGE END ---
+22/10/31 15:30:43 ** Connecting to smtp.gmail.com:465
+22/10/31 15:30:44 ** Connected.
+22/10/31 15:30:44 << 220 smtp.gmail.com ESMTP m13-20020a05600c3b0d00b003bfaba19a8fsm7755687wms.35 - gsmtp<EOL>
+22/10/31 15:30:44 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:30:44 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:30:44 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:30:44 >> AUTH LOGIN<EOL>
+22/10/31 15:30:44 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:30:44 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:30:44 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:30:44 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:30:44 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:30:44 >> MAIL FROM: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:30:44 << 250 2.1.0 OK m13-20020a05600c3b0d00b003bfaba19a8fsm7755687wms.35 - gsmtp<EOL>
+22/10/31 15:30:44 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:30:44 << 250 2.1.5 OK m13-20020a05600c3b0d00b003bfaba19a8fsm7755687wms.35 - gsmtp<EOL>
+22/10/31 15:30:44 >> DATA<EOL>
+22/10/31 15:30:44 << 354  Go ahead m13-20020a05600c3b0d00b003bfaba19a8fsm7755687wms.35 - gsmtp<EOL>
+22/10/31 15:30:44 >> Date: Mon, 31 Oct 2022 15:30:44 +0100<EOL>
+22/10/31 15:30:44 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:30:44 >> Subject: test<EOL>
+22/10/31 15:30:44 >> <EOL>
+22/10/31 15:30:44 >> test kyllian.diochon@gmail.com<EOL>
+22/10/31 15:30:44 >> <EOL>
+22/10/31 15:30:44 >> TESTETSTETSTESTS<EOL>
+22/10/31 15:30:44 >> .<EOL>
+22/10/31 15:30:45 << 250 2.0.0 OK  1667226645 m13-20020a05600c3b0d00b003bfaba19a8fsm7755687wms.35 - gsmtp<EOL>
+22/10/31 15:30:45 >> QUIT<EOL>
+22/10/31 15:30:45 << 221 2.0.0 closing connection m13-20020a05600c3b0d00b003bfaba19a8fsm7755687wms.35 - gsmtp<EOL>
+22/10/31 15:30:45 ** Disconnecting from smtp.gmail.com:465
+22/10/31 15:30:45 ** Disconnected.
+22/10/31 15:30:45 ** Disconnected.
+22/10/31 15:35:17 ** --- MESSAGE BEGIN ---
+22/10/31 15:35:17 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:35:17 ** Subject: test
+22/10/31 15:35:17 ** 
+22/10/31 15:35:17 ** test thome@gmail.com
+22/10/31 15:35:17 ** 
+22/10/31 15:35:17 ** test1234
+22/10/31 15:35:17 ** --- MESSAGE END ---
+22/10/31 15:35:18 ** Connecting to smtp.gmail.com:465
+22/10/31 15:35:18 ** Connected.
+22/10/31 15:35:18 << 220 smtp.gmail.com ESMTP j7-20020a056000124700b00236883f2f5csm7151635wrx.94 - gsmtp<EOL>
+22/10/31 15:35:18 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:35:18 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:35:18 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:35:18 >> AUTH LOGIN<EOL>
+22/10/31 15:35:18 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:35:18 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:35:18 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:35:18 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:35:18 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:35:18 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:35:18 << 250 2.1.0 OK j7-20020a056000124700b00236883f2f5csm7151635wrx.94 - gsmtp<EOL>
+22/10/31 15:35:18 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:35:18 << 250 2.1.5 OK j7-20020a056000124700b00236883f2f5csm7151635wrx.94 - gsmtp<EOL>
+22/10/31 15:35:18 >> DATA<EOL>
+22/10/31 15:35:18 << 354  Go ahead j7-20020a056000124700b00236883f2f5csm7151635wrx.94 - gsmtp<EOL>
+22/10/31 15:35:18 >> Date: Mon, 31 Oct 2022 15:35:18 +0100<EOL>
+22/10/31 15:35:18 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:35:18 >> Subject: test<EOL>
+22/10/31 15:35:18 >> <EOL>
+22/10/31 15:35:18 >> test thome@gmail.com<EOL>
+22/10/31 15:35:18 >> <EOL>
+22/10/31 15:35:18 >> test1234<EOL>
+22/10/31 15:35:18 >> .<EOL>
+22/10/31 15:35:19 << 250 2.0.0 OK  1667226919 j7-20020a056000124700b00236883f2f5csm7151635wrx.94 - gsmtp<EOL>
+22/10/31 15:35:19 >> QUIT<EOL>
+22/10/31 15:35:19 << 221 2.0.0 closing connection j7-20020a056000124700b00236883f2f5csm7151635wrx.94 - gsmtp<EOL>
+22/10/31 15:35:19 ** Disconnected.
+22/10/31 15:35:19 ** Disconnected.
+22/10/31 15:35:19 ** Disconnected.
+22/10/31 15:36:45 ** --- MESSAGE BEGIN ---
+22/10/31 15:36:45 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:36:45 ** Subject: 
+22/10/31 15:36:45 ** 
+22/10/31 15:36:45 **  
+22/10/31 15:36:45 ** 
+22/10/31 15:36:45 ** 
+22/10/31 15:36:45 ** --- MESSAGE END ---
+22/10/31 15:36:46 ** Connecting to smtp.gmail.com:465
+22/10/31 15:36:46 ** Connected.
+22/10/31 15:36:46 << 220 smtp.gmail.com ESMTP l13-20020a05600c2ccd00b003a2f2bb72d5sm8440873wmc.45 - gsmtp<EOL>
+22/10/31 15:36:46 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:36:46 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:36:46 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:36:46 >> AUTH LOGIN<EOL>
+22/10/31 15:36:46 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:36:46 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:36:46 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:36:46 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:36:46 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:36:46 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:36:46 << 250 2.1.0 OK l13-20020a05600c2ccd00b003a2f2bb72d5sm8440873wmc.45 - gsmtp<EOL>
+22/10/31 15:36:46 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:36:47 << 250 2.1.5 OK l13-20020a05600c2ccd00b003a2f2bb72d5sm8440873wmc.45 - gsmtp<EOL>
+22/10/31 15:36:47 >> DATA<EOL>
+22/10/31 15:36:47 << 354  Go ahead l13-20020a05600c2ccd00b003a2f2bb72d5sm8440873wmc.45 - gsmtp<EOL>
+22/10/31 15:36:47 >> Date: Mon, 31 Oct 2022 15:36:47 +0100<EOL>
+22/10/31 15:36:47 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:36:47 >> Subject: <EOL>
+22/10/31 15:36:47 >> <EOL>
+22/10/31 15:36:47 >>  <EOL>
+22/10/31 15:36:47 >> <EOL>
+22/10/31 15:36:47 >> <EOL>
+22/10/31 15:36:47 >> .<EOL>
+22/10/31 15:36:47 << 250 2.0.0 OK  1667227007 l13-20020a05600c2ccd00b003a2f2bb72d5sm8440873wmc.45 - gsmtp<EOL>
+22/10/31 15:36:47 >> QUIT<EOL>
+22/10/31 15:36:47 << 221 2.0.0 closing connection l13-20020a05600c2ccd00b003a2f2bb72d5sm8440873wmc.45 - gsmtp<EOL>
+22/10/31 15:36:47 ** Disconnected.
+22/10/31 15:36:47 ** Disconnected.
+22/10/31 15:36:47 ** Disconnected.
+22/10/31 15:37:23 ** --- MESSAGE BEGIN ---
+22/10/31 15:37:23 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:37:23 ** Subject: test
+22/10/31 15:37:23 ** 
+22/10/31 15:37:23 ** thomy thomy@gmail.com
+22/10/31 15:37:23 ** 
+22/10/31 15:37:23 ** null
+22/10/31 15:37:23 ** --- MESSAGE END ---
+22/10/31 15:37:24 ** Connecting to smtp.gmail.com:465
+22/10/31 15:37:24 ** Connected.
+22/10/31 15:37:24 << 220 smtp.gmail.com ESMTP fc6-20020a05600c524600b003c6bbe910fdsm8792465wmb.9 - gsmtp<EOL>
+22/10/31 15:37:24 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:37:24 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:37:24 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:37:24 >> AUTH LOGIN<EOL>
+22/10/31 15:37:24 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:37:24 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:37:24 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:37:24 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:37:24 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:37:24 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:37:24 << 250 2.1.0 OK fc6-20020a05600c524600b003c6bbe910fdsm8792465wmb.9 - gsmtp<EOL>
+22/10/31 15:37:24 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:37:24 << 250 2.1.5 OK fc6-20020a05600c524600b003c6bbe910fdsm8792465wmb.9 - gsmtp<EOL>
+22/10/31 15:37:24 >> DATA<EOL>
+22/10/31 15:37:24 << 354  Go ahead fc6-20020a05600c524600b003c6bbe910fdsm8792465wmb.9 - gsmtp<EOL>
+22/10/31 15:37:24 >> Date: Mon, 31 Oct 2022 15:37:24 +0100<EOL>
+22/10/31 15:37:24 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:37:24 >> Subject: test<EOL>
+22/10/31 15:37:24 >> <EOL>
+22/10/31 15:37:24 >> thomy thomy@gmail.com<EOL>
+22/10/31 15:37:24 >> <EOL>
+22/10/31 15:37:24 >> null<EOL>
+22/10/31 15:37:24 >> .<EOL>
+22/10/31 15:37:25 << 250 2.0.0 OK  1667227045 fc6-20020a05600c524600b003c6bbe910fdsm8792465wmb.9 - gsmtp<EOL>
+22/10/31 15:37:25 >> QUIT<EOL>
+22/10/31 15:37:25 << 221 2.0.0 closing connection fc6-20020a05600c524600b003c6bbe910fdsm8792465wmb.9 - gsmtp<EOL>
+22/10/31 15:37:25 ** Disconnected.
+22/10/31 15:37:25 ** Disconnected.
+22/10/31 15:37:25 ** Disconnected.
+22/10/31 15:52:03 ** --- MESSAGE BEGIN ---
+22/10/31 15:52:03 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:52:03 ** Subject: test
+22/10/31 15:52:03 ** 
+22/10/31 15:52:03 ** thomy thomy@gmail.com
+22/10/31 15:52:03 ** 
+22/10/31 15:52:03 ** null
+22/10/31 15:52:03 ** --- MESSAGE END ---
+22/10/31 15:52:04 ** Connecting to smtp.gmail.com:465
+22/10/31 15:52:04 ** Connected.
+22/10/31 15:52:04 << 220 smtp.gmail.com ESMTP ck1-20020a5d5e81000000b002366553eca7sm7333395wrb.83 - gsmtp<EOL>
+22/10/31 15:52:04 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:52:04 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:52:04 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:52:04 >> AUTH LOGIN<EOL>
+22/10/31 15:52:04 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:52:04 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:52:04 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:52:04 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:52:05 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:52:05 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:52:05 << 250 2.1.0 OK ck1-20020a5d5e81000000b002366553eca7sm7333395wrb.83 - gsmtp<EOL>
+22/10/31 15:52:05 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:52:05 << 250 2.1.5 OK ck1-20020a5d5e81000000b002366553eca7sm7333395wrb.83 - gsmtp<EOL>
+22/10/31 15:52:05 >> DATA<EOL>
+22/10/31 15:52:05 << 354  Go ahead ck1-20020a5d5e81000000b002366553eca7sm7333395wrb.83 - gsmtp<EOL>
+22/10/31 15:52:05 >> Date: Mon, 31 Oct 2022 15:52:05 +0100<EOL>
+22/10/31 15:52:05 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:52:05 >> Subject: test<EOL>
+22/10/31 15:52:05 >> <EOL>
+22/10/31 15:52:05 >> thomy thomy@gmail.com<EOL>
+22/10/31 15:52:05 >> <EOL>
+22/10/31 15:52:05 >> null<EOL>
+22/10/31 15:52:05 >> .<EOL>
+22/10/31 15:52:05 << 250 2.0.0 OK  1667227926 ck1-20020a5d5e81000000b002366553eca7sm7333395wrb.83 - gsmtp<EOL>
+22/10/31 15:52:05 >> QUIT<EOL>
+22/10/31 15:52:05 << 221 2.0.0 closing connection ck1-20020a5d5e81000000b002366553eca7sm7333395wrb.83 - gsmtp<EOL>
+22/10/31 15:52:05 ** Disconnected.
+22/10/31 15:52:05 ** Disconnected.
+22/10/31 15:52:05 ** Disconnected.
+22/10/31 15:53:38 ** --- MESSAGE BEGIN ---
+22/10/31 15:53:38 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:53:38 ** Subject: test
+22/10/31 15:53:38 ** 
+22/10/31 15:53:38 ** thomy thomy@gmail.com
+22/10/31 15:53:38 ** 
+22/10/31 15:53:38 ** null
+22/10/31 15:53:38 ** --- MESSAGE END ---
+22/10/31 15:53:39 ** Connecting to smtp.gmail.com:465
+22/10/31 15:53:39 ** Connected.
+22/10/31 15:53:39 << 220 smtp.gmail.com ESMTP n185-20020a1ca4c2000000b003cf66a2d433sm7406491wme.33 - gsmtp<EOL>
+22/10/31 15:53:39 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:53:39 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:53:39 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:53:39 >> AUTH LOGIN<EOL>
+22/10/31 15:53:39 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:53:39 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:53:39 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:53:39 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:53:40 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:53:40 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:53:40 << 250 2.1.0 OK n185-20020a1ca4c2000000b003cf66a2d433sm7406491wme.33 - gsmtp<EOL>
+22/10/31 15:53:40 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:53:40 << 250 2.1.5 OK n185-20020a1ca4c2000000b003cf66a2d433sm7406491wme.33 - gsmtp<EOL>
+22/10/31 15:53:40 >> DATA<EOL>
+22/10/31 15:53:40 << 354  Go ahead n185-20020a1ca4c2000000b003cf66a2d433sm7406491wme.33 - gsmtp<EOL>
+22/10/31 15:53:40 >> Date: Mon, 31 Oct 2022 15:53:40 +0100<EOL>
+22/10/31 15:53:40 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:53:40 >> Subject: test<EOL>
+22/10/31 15:53:40 >> <EOL>
+22/10/31 15:53:40 >> thomy thomy@gmail.com<EOL>
+22/10/31 15:53:40 >> <EOL>
+22/10/31 15:53:40 >> null<EOL>
+22/10/31 15:53:40 >> .<EOL>
+22/10/31 15:53:41 << 250 2.0.0 OK  1667228021 n185-20020a1ca4c2000000b003cf66a2d433sm7406491wme.33 - gsmtp<EOL>
+22/10/31 15:53:41 >> QUIT<EOL>
+22/10/31 15:53:41 << 221 2.0.0 closing connection n185-20020a1ca4c2000000b003cf66a2d433sm7406491wme.33 - gsmtp<EOL>
+22/10/31 15:53:41 ** Disconnecting from smtp.gmail.com:465
+22/10/31 15:53:41 ** Disconnected.
+22/10/31 15:53:41 ** Disconnected.
+22/10/31 15:53:57 ** --- MESSAGE BEGIN ---
+22/10/31 15:53:57 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:53:57 ** Subject: test
+22/10/31 15:53:57 ** 
+22/10/31 15:53:57 ** test thomas@gmail.com
+22/10/31 15:53:57 ** 
+22/10/31 15:53:57 ** test
+22/10/31 15:53:57 ** --- MESSAGE END ---
+22/10/31 15:53:58 ** Connecting to smtp.gmail.com:465
+22/10/31 15:53:58 ** Connected.
+22/10/31 15:53:58 << 220 smtp.gmail.com ESMTP h3-20020a5d6e03000000b002365730eae8sm7246864wrz.55 - gsmtp<EOL>
+22/10/31 15:53:58 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:53:58 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:53:58 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:53:58 >> AUTH LOGIN<EOL>
+22/10/31 15:53:58 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:53:58 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:53:58 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:53:58 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:53:59 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:53:59 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:53:59 << 250 2.1.0 OK h3-20020a5d6e03000000b002365730eae8sm7246864wrz.55 - gsmtp<EOL>
+22/10/31 15:53:59 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:53:59 << 250 2.1.5 OK h3-20020a5d6e03000000b002365730eae8sm7246864wrz.55 - gsmtp<EOL>
+22/10/31 15:53:59 >> DATA<EOL>
+22/10/31 15:53:59 << 354  Go ahead h3-20020a5d6e03000000b002365730eae8sm7246864wrz.55 - gsmtp<EOL>
+22/10/31 15:53:59 >> Date: Mon, 31 Oct 2022 15:53:59 +0100<EOL>
+22/10/31 15:53:59 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:53:59 >> Subject: test<EOL>
+22/10/31 15:53:59 >> <EOL>
+22/10/31 15:53:59 >> test thomas@gmail.com<EOL>
+22/10/31 15:53:59 >> <EOL>
+22/10/31 15:53:59 >> test<EOL>
+22/10/31 15:53:59 >> .<EOL>
+22/10/31 15:54:00 << 250 2.0.0 OK  1667228040 h3-20020a5d6e03000000b002365730eae8sm7246864wrz.55 - gsmtp<EOL>
+22/10/31 15:54:00 >> QUIT<EOL>
+22/10/31 15:54:00 << 221 2.0.0 closing connection h3-20020a5d6e03000000b002365730eae8sm7246864wrz.55 - gsmtp<EOL>
+22/10/31 15:54:00 ** Disconnected.
+22/10/31 15:54:00 ** Disconnected.
+22/10/31 15:54:00 ** Disconnected.
+22/10/31 15:56:28 ** --- MESSAGE BEGIN ---
+22/10/31 15:56:28 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:56:28 ** Subject: test
+22/10/31 15:56:28 ** 
+22/10/31 15:56:28 ** test thomas@gmail.com
+22/10/31 15:56:28 ** 
+22/10/31 15:56:28 ** test
+22/10/31 15:56:28 ** --- MESSAGE END ---
+22/10/31 15:56:29 ** Connecting to smtp.gmail.com:465
+22/10/31 15:56:29 ** Connected.
+22/10/31 15:56:29 << 220 smtp.gmail.com ESMTP i10-20020adffdca000000b00236674840e9sm7335953wrs.59 - gsmtp<EOL>
+22/10/31 15:56:29 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:56:29 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:56:29 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:56:29 >> AUTH LOGIN<EOL>
+22/10/31 15:56:29 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:56:29 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:56:29 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:56:29 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:56:29 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:56:29 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:56:29 << 250 2.1.0 OK i10-20020adffdca000000b00236674840e9sm7335953wrs.59 - gsmtp<EOL>
+22/10/31 15:56:29 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:56:29 << 250 2.1.5 OK i10-20020adffdca000000b00236674840e9sm7335953wrs.59 - gsmtp<EOL>
+22/10/31 15:56:29 >> DATA<EOL>
+22/10/31 15:56:29 << 354  Go ahead i10-20020adffdca000000b00236674840e9sm7335953wrs.59 - gsmtp<EOL>
+22/10/31 15:56:29 >> Date: Mon, 31 Oct 2022 15:56:29 +0100<EOL>
+22/10/31 15:56:29 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:56:29 >> Subject: test<EOL>
+22/10/31 15:56:29 >> <EOL>
+22/10/31 15:56:29 >> test thomas@gmail.com<EOL>
+22/10/31 15:56:29 >> <EOL>
+22/10/31 15:56:29 >> test<EOL>
+22/10/31 15:56:29 >> .<EOL>
+22/10/31 15:56:30 << 250 2.0.0 OK  1667228190 i10-20020adffdca000000b00236674840e9sm7335953wrs.59 - gsmtp<EOL>
+22/10/31 15:56:30 >> QUIT<EOL>
+22/10/31 15:56:30 << 221 2.0.0 closing connection i10-20020adffdca000000b00236674840e9sm7335953wrs.59 - gsmtp<EOL>
+22/10/31 15:56:30 ** Disconnecting from smtp.gmail.com:465
+22/10/31 15:56:30 ** Disconnected.
+22/10/31 15:56:30 ** Disconnected.
+22/10/31 15:56:36 ** --- MESSAGE BEGIN ---
+22/10/31 15:56:36 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:56:36 ** Subject: test
+22/10/31 15:56:36 ** 
+22/10/31 15:56:36 ** test thomas@gmail.com
+22/10/31 15:56:36 ** 
+22/10/31 15:56:36 ** test
+22/10/31 15:56:36 ** --- MESSAGE END ---
+22/10/31 15:56:37 ** Connecting to smtp.gmail.com:465
+22/10/31 15:56:37 ** Connected.
+22/10/31 15:56:37 << 220 smtp.gmail.com ESMTP g15-20020a05600c4ecf00b003c6f426467fsm8085625wmq.40 - gsmtp<EOL>
+22/10/31 15:56:37 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:56:37 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:56:37 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:56:37 >> AUTH LOGIN<EOL>
+22/10/31 15:56:37 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:56:37 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:56:37 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:56:37 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:56:37 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:56:37 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:56:37 << 250 2.1.0 OK g15-20020a05600c4ecf00b003c6f426467fsm8085625wmq.40 - gsmtp<EOL>
+22/10/31 15:56:37 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:56:37 << 250 2.1.5 OK g15-20020a05600c4ecf00b003c6f426467fsm8085625wmq.40 - gsmtp<EOL>
+22/10/31 15:56:37 >> DATA<EOL>
+22/10/31 15:56:37 << 354  Go ahead g15-20020a05600c4ecf00b003c6f426467fsm8085625wmq.40 - gsmtp<EOL>
+22/10/31 15:56:37 >> Date: Mon, 31 Oct 2022 15:56:37 +0100<EOL>
+22/10/31 15:56:37 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:56:37 >> Subject: test<EOL>
+22/10/31 15:56:37 >> <EOL>
+22/10/31 15:56:37 >> test thomas@gmail.com<EOL>
+22/10/31 15:56:37 >> <EOL>
+22/10/31 15:56:37 >> test<EOL>
+22/10/31 15:56:37 >> .<EOL>
+22/10/31 15:56:38 << 250 2.0.0 OK  1667228198 g15-20020a05600c4ecf00b003c6f426467fsm8085625wmq.40 - gsmtp<EOL>
+22/10/31 15:56:38 >> QUIT<EOL>
+22/10/31 15:56:38 << 221 2.0.0 closing connection g15-20020a05600c4ecf00b003c6f426467fsm8085625wmq.40 - gsmtp<EOL>
+22/10/31 15:56:38 ** Disconnected.
+22/10/31 15:56:38 ** Disconnected.
+22/10/31 15:56:38 ** Disconnected.
+22/10/31 15:56:42 ** --- MESSAGE BEGIN ---
+22/10/31 15:56:42 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:56:42 ** Subject: test
+22/10/31 15:56:42 ** 
+22/10/31 15:56:42 ** test thomas@gmail.com
+22/10/31 15:56:42 ** 
+22/10/31 15:56:42 ** test
+22/10/31 15:56:42 ** --- MESSAGE END ---
+22/10/31 15:56:43 ** Connecting to smtp.gmail.com:465
+22/10/31 15:56:43 ** Connected.
+22/10/31 15:56:43 << 220 smtp.gmail.com ESMTP j7-20020a05600c190700b003b47e8a5d22sm9203595wmq.23 - gsmtp<EOL>
+22/10/31 15:56:43 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:56:43 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:56:43 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:56:43 >> AUTH LOGIN<EOL>
+22/10/31 15:56:43 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:56:43 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:56:43 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:56:43 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:56:43 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:56:43 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:56:43 << 250 2.1.0 OK j7-20020a05600c190700b003b47e8a5d22sm9203595wmq.23 - gsmtp<EOL>
+22/10/31 15:56:43 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:56:44 << 250 2.1.5 OK j7-20020a05600c190700b003b47e8a5d22sm9203595wmq.23 - gsmtp<EOL>
+22/10/31 15:56:44 >> DATA<EOL>
+22/10/31 15:56:44 << 354  Go ahead j7-20020a05600c190700b003b47e8a5d22sm9203595wmq.23 - gsmtp<EOL>
+22/10/31 15:56:44 >> Date: Mon, 31 Oct 2022 15:56:44 +0100<EOL>
+22/10/31 15:56:44 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:56:44 >> Subject: test<EOL>
+22/10/31 15:56:44 >> <EOL>
+22/10/31 15:56:44 >> test thomas@gmail.com<EOL>
+22/10/31 15:56:44 >> <EOL>
+22/10/31 15:56:44 >> test<EOL>
+22/10/31 15:56:44 >> .<EOL>
+22/10/31 15:56:44 << 250 2.0.0 OK  1667228204 j7-20020a05600c190700b003b47e8a5d22sm9203595wmq.23 - gsmtp<EOL>
+22/10/31 15:56:44 >> QUIT<EOL>
+22/10/31 15:56:44 << 221 2.0.0 closing connection j7-20020a05600c190700b003b47e8a5d22sm9203595wmq.23 - gsmtp<EOL>
+22/10/31 15:56:44 ** Disconnecting from smtp.gmail.com:465
+22/10/31 15:56:44 ** Disconnected.
+22/10/31 15:56:44 ** Disconnected.
+22/10/31 15:57:05 ** --- MESSAGE BEGIN ---
+22/10/31 15:57:05 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:57:05 ** Subject: 
+22/10/31 15:57:05 ** 
+22/10/31 15:57:05 **  
+22/10/31 15:57:05 ** 
+22/10/31 15:57:05 ** 
+22/10/31 15:57:05 ** --- MESSAGE END ---
+22/10/31 15:57:06 ** Connecting to smtp.gmail.com:465
+22/10/31 15:57:06 ** Connected.
+22/10/31 15:57:06 << 220 smtp.gmail.com ESMTP u6-20020a05600c19c600b003c6f8d30e40sm7857447wmq.31 - gsmtp<EOL>
+22/10/31 15:57:06 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:57:06 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:57:06 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:57:06 >> AUTH LOGIN<EOL>
+22/10/31 15:57:06 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:57:06 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:57:06 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:57:06 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:57:06 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:57:06 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:57:06 << 250 2.1.0 OK u6-20020a05600c19c600b003c6f8d30e40sm7857447wmq.31 - gsmtp<EOL>
+22/10/31 15:57:06 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:57:06 << 250 2.1.5 OK u6-20020a05600c19c600b003c6f8d30e40sm7857447wmq.31 - gsmtp<EOL>
+22/10/31 15:57:06 >> DATA<EOL>
+22/10/31 15:57:06 << 354  Go ahead u6-20020a05600c19c600b003c6f8d30e40sm7857447wmq.31 - gsmtp<EOL>
+22/10/31 15:57:06 >> Date: Mon, 31 Oct 2022 15:57:06 +0100<EOL>
+22/10/31 15:57:06 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:57:06 >> Subject: <EOL>
+22/10/31 15:57:06 >> <EOL>
+22/10/31 15:57:06 >>  <EOL>
+22/10/31 15:57:06 >> <EOL>
+22/10/31 15:57:06 >> <EOL>
+22/10/31 15:57:06 >> .<EOL>
+22/10/31 15:57:07 << 250 2.0.0 OK  1667228227 u6-20020a05600c19c600b003c6f8d30e40sm7857447wmq.31 - gsmtp<EOL>
+22/10/31 15:57:07 >> QUIT<EOL>
+22/10/31 15:57:07 << 221 2.0.0 closing connection u6-20020a05600c19c600b003c6f8d30e40sm7857447wmq.31 - gsmtp<EOL>
+22/10/31 15:57:07 ** Disconnected.
+22/10/31 15:57:07 ** Disconnected.
+22/10/31 15:57:07 ** Disconnected.
+22/10/31 15:59:14 ** --- MESSAGE BEGIN ---
+22/10/31 15:59:14 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 15:59:14 ** Subject: 
+22/10/31 15:59:14 ** 
+22/10/31 15:59:14 **  
+22/10/31 15:59:14 ** 
+22/10/31 15:59:14 ** 
+22/10/31 15:59:14 ** --- MESSAGE END ---
+22/10/31 15:59:15 ** Connecting to smtp.gmail.com:465
+22/10/31 15:59:15 ** Connected.
+22/10/31 15:59:15 << 220 smtp.gmail.com ESMTP t2-20020a05600c41c200b003c21ba7d7d6sm7286900wmh.44 - gsmtp<EOL>
+22/10/31 15:59:15 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 15:59:15 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 15:59:15 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 15:59:15 >> AUTH LOGIN<EOL>
+22/10/31 15:59:15 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 15:59:15 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 15:59:15 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 15:59:15 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 15:59:15 << 235 2.7.0 Accepted<EOL>
+22/10/31 15:59:15 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 15:59:15 << 250 2.1.0 OK t2-20020a05600c41c200b003c21ba7d7d6sm7286900wmh.44 - gsmtp<EOL>
+22/10/31 15:59:15 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 15:59:15 << 250 2.1.5 OK t2-20020a05600c41c200b003c21ba7d7d6sm7286900wmh.44 - gsmtp<EOL>
+22/10/31 15:59:15 >> DATA<EOL>
+22/10/31 15:59:15 << 354  Go ahead t2-20020a05600c41c200b003c21ba7d7d6sm7286900wmh.44 - gsmtp<EOL>
+22/10/31 15:59:15 >> Date: Mon, 31 Oct 2022 15:59:15 +0100<EOL>
+22/10/31 15:59:15 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 15:59:15 >> Subject: <EOL>
+22/10/31 15:59:15 >> <EOL>
+22/10/31 15:59:15 >>  <EOL>
+22/10/31 15:59:15 >> <EOL>
+22/10/31 15:59:15 >> <EOL>
+22/10/31 15:59:15 >> .<EOL>
+22/10/31 15:59:16 << 250 2.0.0 OK  1667228356 t2-20020a05600c41c200b003c21ba7d7d6sm7286900wmh.44 - gsmtp<EOL>
+22/10/31 15:59:16 >> QUIT<EOL>
+22/10/31 15:59:16 << 221 2.0.0 closing connection t2-20020a05600c41c200b003c21ba7d7d6sm7286900wmh.44 - gsmtp<EOL>
+22/10/31 15:59:16 ** Disconnecting from smtp.gmail.com:465
+22/10/31 15:59:16 ** Disconnected.
+22/10/31 15:59:16 ** Disconnected.
+22/10/31 16:00:19 ** --- MESSAGE BEGIN ---
+22/10/31 16:00:19 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 16:00:19 ** Subject: Test
+22/10/31 16:00:19 ** 
+22/10/31 16:00:19 ** Diochon kyllian.diochon@gmail.com
+22/10/31 16:00:19 ** 
+22/10/31 16:00:19 ** Test
+22/10/31 16:00:19 ** --- MESSAGE END ---
+22/10/31 16:00:20 ** Connecting to smtp.gmail.com:465
+22/10/31 16:00:20 ** Connected.
+22/10/31 16:00:20 << 220 smtp.gmail.com ESMTP l13-20020a05600c2ccd00b003a2f2bb72d5sm8509685wmc.45 - gsmtp<EOL>
+22/10/31 16:00:20 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 16:00:20 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 16:00:20 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 16:00:20 >> AUTH LOGIN<EOL>
+22/10/31 16:00:20 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 16:00:20 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 16:00:20 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 16:00:20 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 16:00:21 << 235 2.7.0 Accepted<EOL>
+22/10/31 16:00:21 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 16:00:21 << 250 2.1.0 OK l13-20020a05600c2ccd00b003a2f2bb72d5sm8509685wmc.45 - gsmtp<EOL>
+22/10/31 16:00:21 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 16:00:21 << 250 2.1.5 OK l13-20020a05600c2ccd00b003a2f2bb72d5sm8509685wmc.45 - gsmtp<EOL>
+22/10/31 16:00:21 >> DATA<EOL>
+22/10/31 16:00:21 << 354  Go ahead l13-20020a05600c2ccd00b003a2f2bb72d5sm8509685wmc.45 - gsmtp<EOL>
+22/10/31 16:00:21 >> Date: Mon, 31 Oct 2022 16:00:21 +0100<EOL>
+22/10/31 16:00:21 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 16:00:21 >> Subject: Test<EOL>
+22/10/31 16:00:21 >> <EOL>
+22/10/31 16:00:21 >> Diochon kyllian.diochon@gmail.com<EOL>
+22/10/31 16:00:21 >> <EOL>
+22/10/31 16:00:21 >> Test<EOL>
+22/10/31 16:00:21 >> .<EOL>
+22/10/31 16:00:21 << 250 2.0.0 OK  1667228421 l13-20020a05600c2ccd00b003a2f2bb72d5sm8509685wmc.45 - gsmtp<EOL>
+22/10/31 16:00:21 >> QUIT<EOL>
+22/10/31 16:00:21 << 221 2.0.0 closing connection l13-20020a05600c2ccd00b003a2f2bb72d5sm8509685wmc.45 - gsmtp<EOL>
+22/10/31 16:00:21 ** Disconnected.
+22/10/31 16:00:21 ** Disconnected.
+22/10/31 16:00:21 ** Disconnected.
+22/10/31 16:01:32 ** --- MESSAGE BEGIN ---
+22/10/31 16:01:32 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 16:01:32 ** Subject: Poudlard
+22/10/31 16:01:32 ** 
+22/10/31 16:01:32 ** Geduzor thomas@gmail.com
+22/10/31 16:01:32 ** 
+22/10/31 16:01:32 ** Harry arrive !
+22/10/31 16:01:32 ** --- MESSAGE END ---
+22/10/31 16:01:33 ** Connecting to smtp.gmail.com:465
+22/10/31 16:01:33 ** Connected.
+22/10/31 16:01:33 << 220 smtp.gmail.com ESMTP bp21-20020a5d5a95000000b002302dc43d77sm7460599wrb.115 - gsmtp<EOL>
+22/10/31 16:01:33 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 16:01:33 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 16:01:33 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 16:01:33 >> AUTH LOGIN<EOL>
+22/10/31 16:01:33 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 16:01:33 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 16:01:33 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 16:01:33 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 16:01:34 << 235 2.7.0 Accepted<EOL>
+22/10/31 16:01:34 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 16:01:34 << 250 2.1.0 OK bp21-20020a5d5a95000000b002302dc43d77sm7460599wrb.115 - gsmtp<EOL>
+22/10/31 16:01:34 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 16:01:34 << 250 2.1.5 OK bp21-20020a5d5a95000000b002302dc43d77sm7460599wrb.115 - gsmtp<EOL>
+22/10/31 16:01:34 >> DATA<EOL>
+22/10/31 16:01:34 << 354  Go ahead bp21-20020a5d5a95000000b002302dc43d77sm7460599wrb.115 - gsmtp<EOL>
+22/10/31 16:01:34 >> Date: Mon, 31 Oct 2022 16:01:34 +0100<EOL>
+22/10/31 16:01:34 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 16:01:34 >> Subject: Poudlard<EOL>
+22/10/31 16:01:34 >> <EOL>
+22/10/31 16:01:34 >> Geduzor thomas@gmail.com<EOL>
+22/10/31 16:01:34 >> <EOL>
+22/10/31 16:01:34 >> Harry arrive !<EOL>
+22/10/31 16:01:34 >> .<EOL>
+22/10/31 16:01:34 << 250 2.0.0 OK  1667228495 bp21-20020a5d5a95000000b002302dc43d77sm7460599wrb.115 - gsmtp<EOL>
+22/10/31 16:01:34 >> QUIT<EOL>
+22/10/31 16:01:34 << 221 2.0.0 closing connection bp21-20020a5d5a95000000b002302dc43d77sm7460599wrb.115 - gsmtp<EOL>
+22/10/31 16:01:34 ** Disconnected.
+22/10/31 16:01:34 ** Disconnected.
+22/10/31 16:01:34 ** Disconnected.
+22/10/31 16:04:24 ** --- MESSAGE BEGIN ---
+22/10/31 16:04:24 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 16:04:24 ** Subject: Poudlard
+22/10/31 16:04:24 ** 
+22/10/31 16:04:24 ** De la part de : thomas@gmail.com 
+22/10/31 16:04:24 ** 
+22/10/31 16:04:24 ** Le sujet est : Poudlard
+22/10/31 16:04:24 ** 
+22/10/31 16:04:24 ** Harry arrive !
+22/10/31 16:04:24 ** --- MESSAGE END ---
+22/10/31 16:04:25 ** Connecting to smtp.gmail.com:465
+22/10/31 16:04:26 ** Connected.
+22/10/31 16:04:26 << 220 smtp.gmail.com ESMTP n4-20020adfe344000000b002365f326037sm8878482wrj.63 - gsmtp<EOL>
+22/10/31 16:04:26 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 16:04:26 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 16:04:26 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 16:04:26 >> AUTH LOGIN<EOL>
+22/10/31 16:04:26 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 16:04:26 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 16:04:26 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 16:04:26 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 16:04:26 << 235 2.7.0 Accepted<EOL>
+22/10/31 16:04:26 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 16:04:26 << 250 2.1.0 OK n4-20020adfe344000000b002365f326037sm8878482wrj.63 - gsmtp<EOL>
+22/10/31 16:04:26 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 16:04:26 << 250 2.1.5 OK n4-20020adfe344000000b002365f326037sm8878482wrj.63 - gsmtp<EOL>
+22/10/31 16:04:26 >> DATA<EOL>
+22/10/31 16:04:26 << 354  Go ahead n4-20020adfe344000000b002365f326037sm8878482wrj.63 - gsmtp<EOL>
+22/10/31 16:04:26 >> Date: Mon, 31 Oct 2022 16:04:26 +0100<EOL>
+22/10/31 16:04:26 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 16:04:26 >> Subject: Poudlard<EOL>
+22/10/31 16:04:26 >> <EOL>
+22/10/31 16:04:26 >> De la part de : thomas@gmail.com <EOL>
+22/10/31 16:04:26 >> <EOL>
+22/10/31 16:04:26 >> Le sujet est : Poudlard<EOL>
+22/10/31 16:04:26 >> <EOL>
+22/10/31 16:04:26 >> Harry arrive !<EOL>
+22/10/31 16:04:26 >> .<EOL>
+22/10/31 16:04:27 << 250 2.0.0 OK  1667228667 n4-20020adfe344000000b002365f326037sm8878482wrj.63 - gsmtp<EOL>
+22/10/31 16:04:27 >> QUIT<EOL>
+22/10/31 16:04:27 << 221 2.0.0 closing connection n4-20020adfe344000000b002365f326037sm8878482wrj.63 - gsmtp<EOL>
+22/10/31 16:04:27 ** Disconnected.
+22/10/31 16:04:27 ** Disconnected.
+22/10/31 16:04:27 ** Disconnected.
+22/10/31 16:05:15 ** --- MESSAGE BEGIN ---
+22/10/31 16:05:15 ** To: kyllian.diochon.kd@gmail.com
+22/10/31 16:05:15 ** Subject: Il arrive... !
+22/10/31 16:05:15 ** 
+22/10/31 16:05:15 ** De la part de : Thomy@gmail.com 
+22/10/31 16:05:15 ** 
+22/10/31 16:05:15 ** Le sujet est : Il arrive... !
+22/10/31 16:05:15 ** 
+22/10/31 16:05:15 ** L'homme dont nous ne pouvons pas prononcer le nom arrive sur nos terres...
+22/10/31 16:05:15 ** --- MESSAGE END ---
+22/10/31 16:05:16 ** Connecting to smtp.gmail.com:465
+22/10/31 16:05:17 ** Connected.
+22/10/31 16:05:17 << 220 smtp.gmail.com ESMTP l15-20020a5d480f000000b002366eb01e07sm7307615wrq.114 - gsmtp<EOL>
+22/10/31 16:05:17 >> EHLO DESKTOP-H8GHTC5<EOL>
+22/10/31 16:05:17 << 250-smtp.gmail.com at your service, [92.154.112.188]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22/10/31 16:05:17 ** Authenticating as kyllian.diochon.kd@gmail.com
+22/10/31 16:05:17 >> AUTH LOGIN<EOL>
+22/10/31 16:05:17 << 334 VXNlcm5hbWU6<EOL>
+22/10/31 16:05:17 >> a3lsbGlhbi5kaW9jaG9uLmtkQGdtYWlsLmNvbQ==<EOL>
+22/10/31 16:05:17 << 334 UGFzc3dvcmQ6<EOL>
+22/10/31 16:05:17 >> amRwbXVybXp3emR1eWpsbg==<EOL>
+22/10/31 16:05:17 << 235 2.7.0 Accepted<EOL>
+22/10/31 16:05:17 >> MAIL FROM: <contact-critairup@gmail.com><EOL>
+22/10/31 16:05:17 << 250 2.1.0 OK l15-20020a5d480f000000b002366eb01e07sm7307615wrq.114 - gsmtp<EOL>
+22/10/31 16:05:17 >> RCPT TO: <kyllian.diochon.kd@gmail.com><EOL>
+22/10/31 16:05:17 << 250 2.1.5 OK l15-20020a5d480f000000b002366eb01e07sm7307615wrq.114 - gsmtp<EOL>
+22/10/31 16:05:17 >> DATA<EOL>
+22/10/31 16:05:17 << 354  Go ahead l15-20020a5d480f000000b002366eb01e07sm7307615wrq.114 - gsmtp<EOL>
+22/10/31 16:05:17 >> Date: Mon, 31 Oct 2022 16:05:17 +0100<EOL>
+22/10/31 16:05:17 >> To: kyllian.diochon.kd@gmail.com<EOL>
+22/10/31 16:05:17 >> Subject: Il arrive... !<EOL>
+22/10/31 16:05:17 >> <EOL>
+22/10/31 16:05:17 >> De la part de : Thomy@gmail.com <EOL>
+22/10/31 16:05:17 >> <EOL>
+22/10/31 16:05:17 >> Le sujet est : Il arrive... !<EOL>
+22/10/31 16:05:17 >> <EOL>
+22/10/31 16:05:17 >> L'homme dont nous ne pouvons pas prononcer le nom arrive sur nos terres...<EOL>
+22/10/31 16:05:17 >> .<EOL>
+22/10/31 16:05:17 << 250 2.0.0 OK  1667228718 l15-20020a5d480f000000b002366eb01e07sm7307615wrq.114 - gsmtp<EOL>
+22/10/31 16:05:17 >> QUIT<EOL>
+22/10/31 16:05:17 << 221 2.0.0 closing connection l15-20020a5d480f000000b002366eb01e07sm7307615wrq.114 - gsmtp<EOL>
+22/10/31 16:05:17 ** Disconnected.
+22/10/31 16:05:17 ** Disconnected.
+22/10/31 16:05:17 ** Disconnected.
